@@ -1,5 +1,6 @@
-#include<string.h>
-#include<stdio.h>
+//#include<string.h>
+#include <bits/stdc++.h>
+
 using namespace std;
 int arr[100001];
 
